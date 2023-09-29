@@ -1,4 +1,4 @@
 import streamlit
-import snowflake_connector
+import snowflake.connector
 
 streamlit.title("Zena's Amazing Web Catalog")
